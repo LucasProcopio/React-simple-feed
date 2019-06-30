@@ -1,0 +1,15 @@
+.post {
+  width: 50%;
+  margin: 25px auto;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  box-shadow: 1px 1px 1px 1px #dddddd;
+  .post-body {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top: solid 2px #dddddd;
+    padding: 15px 0;
+    color: #555;
+  }
+}

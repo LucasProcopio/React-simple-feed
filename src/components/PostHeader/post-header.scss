@@ -1,0 +1,28 @@
+.post-header {
+  width: 100%;
+  padding: 5px 10px;
+  .image {
+    width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .post-header-content {
+    vertical-align: middle;
+    height: 40px;
+    display: inline-block;
+    padding: 5px 10px;
+    h4 {
+      font-weight: bold;
+      color: #555;
+    }
+    p {
+      color: #999;
+      font-size: 12px;
+    }
+  }
+}
